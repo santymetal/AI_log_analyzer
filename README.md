@@ -1,4 +1,4 @@
-# Enterprise Log Analyzer
+# AI Log Analyzer
 
 AI-powered desktop log analysis tool with intelligent false positive elimination and automated root cause detection.
 
