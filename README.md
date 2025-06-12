@@ -36,14 +36,14 @@ AI-powered desktop log analysis tool with intelligent false positive elimination
 ## 🚀 Quick Start
 
 ### Option 1: Download Release (Recommended)
-1. Download `enterprise-log-analyzer-desktop_latest.zip` from [Releases](../../releases)
+1. Download `AI_log-analyzer-desktop_final.zip` from [Releases](../../releases)
 2. Extract the zip file
 3. Run `launch-ultimate-analyzer.bat` (Windows) or `python desktop-analyzer-ultimate.py`
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/enterprise-log-analyzer.git
-cd enterprise-log-analyzer
+git clone https://github.com/yourusername/AI_log-analyzer.git
+cd AI_log_analyzer
 pip install customtkinter pandas numpy pillow
 python desktop-analyzer-ultimate.py
 ```
